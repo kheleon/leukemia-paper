@@ -1,0 +1,65 @@
+cell.labels ordered,suggested labels for BM reference
+HSC,HSC
+MEMP,MEM progenitors
+MEP,MEM progenitors
+eo/baso/mast precursor,MEM progenitors
+early erythroid,erythroid
+mid erythroid,erythroid
+late erythroid,erythroid
+early MK,MK
+MK,MK
+eosinophil,eo/baso/mast cell
+basophil,eo/baso/mast cell
+mast cell,eo/baso/mast cell
+LMPP,LMPP
+ELP,ELP
+pre pro B progenitor,pre pro B progenitor
+pro B progenitor,pro B progenitor
+pre B progenitor,pre B progenitor
+immature B cell,immature B cell
+naive B cell,naive B cell
+MPP myeloid,MPP myeloid
+CMP,CMP
+GMP,GMP
+MOP,MOP
+promonocyte,promonocyte
+CD14 monocyte,CD14 monocyte
+monocytoid macrophage,macrophage
+stromal macrophage,macrophage
+erythroid macrophage,macrophage
+promyelocyte,neutrophil lineage
+myelocyte,neutrophil lineage
+neutrophil,neutrophil lineage
+myeloid DC progenitor,DC progenitor
+pDC progenitor,DC progenitor
+pDC,plasmacytoid DC
+DC precursor,myeloid DC
+DC1,myeloid DC
+DC2,myeloid DC
+DC3,myeloid DC
+tDC,myeloid DC
+NK progenitor,NK cell
+CD56 bright NK,NK cell
+mature NK,NK cell
+NK T cell,NK T cell
+ILC precursor,ILC precursor
+Treg,T cell
+CD4 T cell,T cell
+CD8 T cell,T cell
+chondrocyte,non-haematopoietic
+arteriolar fibroblast,non-haematopoietic
+adipo-CAR,non-haematopoietic
+osteoblast,non-haematopoietic
+osteoblast precursor,non-haematopoietic
+osteochondral precursor,non-haematopoietic
+osteoclast,non-haematopoietic
+myofibroblast,non-haematopoietic
+muscle stem cell,non-haematopoietic
+muscle,non-haematopoietic
+immature EC,non-haematopoietic
+tip EC,non-haematopoietic
+sinusoidal EC,non-haematopoietic
+schwann cells,non-haematopoietic
+proliferating EC,non-haematopoietic
+endosteal fibroblast,non-haematopoietic
+early osteoblast,non-haematopoietic
