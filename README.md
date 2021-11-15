@@ -8,7 +8,21 @@ This repository contains raw data and analysis notebook for manuscript (in progr
     - SoupX_processed_counts = "decontaminated" raw data, i.e. after running SoupX
     - P1/P3/P5_iALL_clusters.tsv = output file from souporcell software for multiplexed samples.
     - final_h5ad = h5ad object for each sample with raw counts in adata.X slot and  sample ID and cancer/normal cell classification in adata.obs.patient_cancer
-    
+*Please note that I use slightly extended IDs, which correspond to the case ID in the paper as folllwing: 
+    | case ID  | extended ID |
+    | - | ------|
+    | 1| P1_iALLM|
+    | 2| P2_iALLF|
+    | 3| P3_iALL|
+    | 4| P4_iALL|
+    | 5| P5_iALL|
+    | 6| P6_iALL|
+    | 7| P7_iALL7_NUTM1 |
+    | 8| P8_iALL8_ETV6|
+    | 9| P9_iAML_Dx|
+    | 10| P10_iAML|
+ 
+
 - bulk_data (bulk data run through Salmon):
     - StJude = matrix of counts with gene length in second column (stJudes_bulk_txiConvGlen.csv) together with metadata
     - TARGET = matrix of counts (TARGET_raw_countsALLwGlen.csv) together with metadata
